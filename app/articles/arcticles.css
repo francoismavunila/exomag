@@ -1,0 +1,33 @@
+/* articles.css */
+
+section {
+    font-family: 'Roboto', sans-serif;
+    color: #2d3748;
+  }
+  
+  input[type="text"] {
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 10px;
+    transition: border 0.3s;
+  }
+  
+  input[type="text"]:focus {
+    border-color: #3182ce;
+  }
+  
+  .text-blue-500 {
+    color: #3182ce;
+  }
+  
+  h3 {
+    transition: color 0.2s;
+  }
+  
+  h3:hover {
+    color: #63b3ed;
+  }
+  
+  .bg-gradient-to-t {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+  }
+  
