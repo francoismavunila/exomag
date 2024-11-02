@@ -65,7 +65,7 @@ export default function RootLayout({ children }) {
               <Link href="/about" onClick={() => setIsMenuOpen(false)}>About</Link>
               <Link href="/articles" onClick={() => setIsMenuOpen(false)}>Articles</Link>
               <Link href="/contact" onClick={() => setIsMenuOpen(false)}>Contact</Link>
-              <Link href="/magazine-cover" onClick={() => setIsMenuOpen(false)}>Media</Link>
+              <Link href="/media" onClick={() => setIsMenuOpen(false)}>Media</Link>
             </div>
           )}
 
