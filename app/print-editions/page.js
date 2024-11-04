@@ -15,14 +15,14 @@ export default function PrintEditions() {
       id: '2',
       title: "Quarterly Issue - June 2023",
       releaseDate: "June 2023",
-      image: "/print-editions/two.jpeg",
+      image: "/print-editions/two.jpg",
       description: "Our summer issue packed with tips and profiles of disruptive businesses across Africa.",
     },
     {
       id: '3',
       title: "Quarterly Issue - September 2023",
       releaseDate: "September 2023",
-      image: "/print-editions/three.jpeg",
+      image: "/print-editions/three.jpg",
       description: "Dive into our fall issue for more strategies and resources for emerging entrepreneurs.",
     },
   ];
